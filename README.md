@@ -1,32 +1,37 @@
-<!-- Modern GitHub Profile README for raykaris -->
+<h1 align="center">Hey there 👋 I'm <b>Ryan (raykaris)</b></h1>
+<p align="center">💻 Web Developer • 🛡️ Cybersecurity Enthusiast • 🔐 Pentesting Student • 🖥️ Software Engineer</p>
 
-<!-- Header -->
-<h1 align="center">Hey there 👋, I'm Raykaris</h1>
-<h3 align="center">💻 Web Developer | 🛡️ Cybersecurity Enthusiast | 🖥️ Software Engineer</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryan-muthoni-44254629a">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Muthoni-blue?logo=linkedin" />
+  </a>
+  <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%20/ his%20/ him-lightgrey" />
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=raykaris&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-<!-- About Me -->
-- 👀 **Interests:** Web Development · Software Development · Cybersecurity  
-- 🌱 **Currently Learning:** Penetration Testing · Full-stack Development  
-- 💞️ **Looking to Collaborate On:** Software Projects · Web Apps · Pentests  
-- 📫 **Reach Me On:** [LinkedIn](https://www.linkedin.com/in/ryan-muthoni-44254629a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 😄 **Pronouns:** He/Him  
+## About me
+- 👀 **Interests:** Web development · Software development · Cybersecurity  
+- 🌱 **Currently Learning:** Penetration testing · Full-stack Development  
+- 💞️ **Looking to Collaborate On:** Web apps · Software projects · Pentests  
+- 📫 **Reach Me On:**  [LinkedIn](https://www.linkedin.com/in/ryan-muthoni-44254629a)  
 - ⚡ **Fun Fact:** Python isn’t named after the snake 🐍 — it’s named after *Monty Python* comedy!
 
 ---
 
-<!-- GitHub Stats with Circular Progress Style -->
-<h2 align="center">📊 GitHub Overview</h2>
+## 📊 GitHub Snapshot
 
 <p align="center">
-  <!-- Commits Circle -->
-  <img src="https://github-profile-trophy.vercel.app/?username=raykaris&title=Commit,Stars,Repositories&theme=radical&no-frame=true&margin-w=15" alt="trophy stats" />
+  <img src="./assets/commits.svg" alt="Commits progress" width="180" />
+  <img src="./assets/stars.svg" alt="Stars progress" width="180" />
+  <img src="./assets/repos.svg" alt="Repos progress" width="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raykaris&show_icons=true&theme=radical" alt="GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raykaris&layout=compact&theme=radical" alt="Top languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raykaris&show_icons=true&theme=radical" alt="GitHub stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raykaris&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
@@ -45,3 +50,6 @@
   <a href="https://github.com/raykaris?tab=followers"><img src="https://img.shields.io/github/followers/raykaris?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
+<p align="center">
+  Thanks for visiting — come back later and see how my progress grows! 🚀
+</p>

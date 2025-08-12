@@ -1,0 +1,10 @@
+{
+  "name": "profile-svg-generator",
+  "version": "1.0.0",
+  "description": "Generates circular progress SVGs for GitHub profile README",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate-progress-svg.js"
+  }
+}
