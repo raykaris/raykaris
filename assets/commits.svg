@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Commits: 153 (3%)">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6ee7b7"/>
+      <stop offset="100%" stop-color="#ff7ab6"/>
+    </linearGradient>
+    <style>
+      .small { font: 12px 'Segoe UI', Roboto, Arial, sans-serif; fill:#6b7280 }
+      .big { font: 700 20px 'Segoe UI', Roboto, Arial, sans-serif; fill:#111827 }
+    </style>
+  </defs>
+
+  <!-- Background circle -->
+  <circle cx="80" cy="80" r="74" fill="none" stroke="#e6e6e6" stroke-width="12" />
+
+  <!-- Progress circle -->
+  <circle cx="80" cy="80" r="74" fill="none"
+    stroke="url(#g)" stroke-width="12" stroke-linecap="round"
+    stroke-dasharray="464.9557127312894" stroke-dashoffset="451.0070413493507"
+    transform="rotate(-90 80 80)" />
+
+  <!-- Text -->
+  <text x="80" y="74" class="big" text-anchor="middle">153</text>
+  <text x="80" y="98" class="small" text-anchor="middle">Commits • 3% of 5000</text>
+</svg>
