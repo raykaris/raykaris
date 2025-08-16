@@ -22,7 +22,7 @@
 
 ## 🖥️ Portfolio
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://ryan-kariuki-muthoni.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%2300b894?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button" />
   </a>
 </p>
