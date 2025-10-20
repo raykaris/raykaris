@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋 I'm <b>Ryan (raykaris)</b></h1>
-<p align="center">💻 Web Developer • 🛡️ Cybersecurity Enthusiast • 🔐 Pentesting Student • 🖥️ Software Engineer</p>
+<p align="center">💻 Web Developer • 🛡️ Cybersecurity Enthusiast • 🖥️ Software Engineer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-muthoni-44254629a">
@@ -13,8 +13,8 @@
 
 ## About me
 - 👀 **Interests:** Web development · Software development · Cybersecurity  
-- 🌱 **Currently Learning:** Penetration testing · Full-stack Development  
-- 💞️ **Looking to Collaborate On:** Web apps · Software projects · Pentests  
+- 🌱 **Currently Learning:** Defensive & Offensive Levels · Full-stack Development  
+- 💞️ **Looking to Collaborate On:** Web projects · Software projects · Pentests  
 - 📫 **Reach Me On:**  [LinkedIn](https://www.linkedin.com/in/ryan-muthoni-44254629a)  
 - ⚡ **Fun Fact:** Python isn’t named after the snake 🐍 — it’s named after *Monty Python* comedy!
 
