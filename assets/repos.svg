@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Repositories: 53 (53%)">
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Repositories: 54 (54%)">
   <defs>
     <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
       <stop offset="0%" stop-color="#6ee7b7"/>
@@ -17,10 +17,10 @@
   <!-- Progress circle -->
   <circle cx="80" cy="80" r="74" fill="none"
     stroke="url(#g)" stroke-width="12" stroke-linecap="round"
-    stroke-dasharray="464.9557127312894" stroke-dashoffset="218.52918498370602"
+    stroke-dasharray="464.9557127312894" stroke-dashoffset="213.8796278563931"
     transform="rotate(-90 80 80)" />
 
   <!-- Text -->
-  <text x="80" y="74" class="big" text-anchor="middle">53</text>
-  <text x="80" y="98" class="small" text-anchor="middle">Repositories • 53% of 100</text>
+  <text x="80" y="74" class="big" text-anchor="middle">54</text>
+  <text x="80" y="98" class="small" text-anchor="middle">Repositories • 54% of 100</text>
 </svg>
