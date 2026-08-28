@@ -2,7 +2,7 @@
 <p align="center">💻 Web Developer • 🛡️ Cybersecurity Enthusiast • 🖥️ Software Engineer</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ryan-muthoni-44254629a">
+  <a href="https://www.linkedin.com/in/ryan-muthoni-867b35431">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ryan%20Muthoni-blue?logo=linkedin" />
   </a>
   <img alt="Pronouns" src="https://img.shields.io/badge/Pronouns-he%20/ his%20/ him-lightgrey" />
@@ -15,14 +15,14 @@
 - 👀 **Interests:** Web development · Software development · Cybersecurity  
 - 🌱 **Currently Learning:** Defensive & Offensive Levels · Full-stack Development  
 - 💞️ **Looking to Collaborate On:** Web projects · Software projects · Pentests  
-- 📫 **Reach Me On:**  [LinkedIn](https://www.linkedin.com/in/ryan-muthoni-44254629a)  
+- 📫 **Reach Me On:**  [LinkedIn](https://www.linkedin.com/in/ryan-muthoni-867b35431/)  
 - ⚡ **Fun Fact:** Python isn’t named after the snake 🐍 — it’s named after *Monty Python* comedy!
 
 ---
 
 ## 🖥️ Portfolio
 <p align="center">
-  <a href="https://ryan-kariuki-muthoni.vercel.app" target="_blank">
+  <a href="https://ryankariukiportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-%2300b894?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Button" />
   </a>
 </p>
